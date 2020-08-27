@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>TB260_001_Black_Bucket_thumb.png</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\TB260_001_Black_Bucket_thumb.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>19</ymin>
+			<xmax>657</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

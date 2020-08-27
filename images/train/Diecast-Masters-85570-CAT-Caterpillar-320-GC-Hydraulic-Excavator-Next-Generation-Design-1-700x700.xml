@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Diecast-Masters-85570-CAT-Caterpillar-320-GC-Hydraulic-Excavator-Next-Generation-Design-1-700x700.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\Diecast-Masters-85570-CAT-Caterpillar-320-GC-Hydraulic-Excavator-Next-Generation-Design-1-700x700.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>137</ymin>
+			<xmax>656</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>volvo_show_compact_excavator_ecr50d_t3_star_picture_2324x1200.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\volvo_show_compact_excavator_ecr50d_t3_star_picture_2324x1200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>28</ymin>
+			<xmax>696</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

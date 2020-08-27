@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>excavation_power_shovel_excavator_sand_digger_construction_site_698033.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\excavation_power_shovel_excavator_sand_digger_construction_site_698033.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>145</ymin>
+			<xmax>598</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

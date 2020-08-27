@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1394708851_mecalac_excavator_8MCR_07.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\test\1394708851_mecalac_excavator_8MCR_07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>106</ymin>
+			<xmax>761</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

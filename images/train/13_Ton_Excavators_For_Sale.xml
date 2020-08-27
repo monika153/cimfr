@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>13_Ton_Excavators_For_Sale.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\13_Ton_Excavators_For_Sale.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>83</ymin>
+			<xmax>761</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

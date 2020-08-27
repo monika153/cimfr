@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>i_koparka_liebherr_311_litronic_waga_13500_kg.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\i_koparka_liebherr_311_litronic_waga_13500_kg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>51</ymin>
+			<xmax>655</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Mini-Excavators-Kobelco-SK45SRX-6E-10673158.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\test\Mini-Excavators-Kobelco-SK45SRX-6E-10673158.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>30</ymin>
+			<xmax>797</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>4e513b0bbc4ce0916b973a5778800958e9dc41d53b05689d63.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\test\4e513b0bbc4ce0916b973a5778800958e9dc41d53b05689d63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>93</ymin>
+			<xmax>754</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

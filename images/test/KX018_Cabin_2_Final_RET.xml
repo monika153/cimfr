@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>KX018_Cabin_2_Final_RET.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\test\KX018_Cabin_2_Final_RET.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>59</ymin>
+			<xmax>703</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

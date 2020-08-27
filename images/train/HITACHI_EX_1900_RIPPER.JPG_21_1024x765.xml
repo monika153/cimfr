@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>HITACHI_EX_1900_RIPPER.JPG_21_1024x765.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\HITACHI_EX_1900_RIPPER.JPG_21_1024x765.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>29</ymin>
+			<xmax>687</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>

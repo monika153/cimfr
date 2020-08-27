@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Case_CX26C_Mini_Excavator_3.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\Case_CX26C_Mini_Excavator_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>5</ymin>
+			<xmax>722</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

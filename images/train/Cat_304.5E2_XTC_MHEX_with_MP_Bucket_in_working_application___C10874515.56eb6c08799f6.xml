@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Cat_304.5E2_XTC_MHEX_with_MP_Bucket_in_working_application___C10874515.56eb6c08799f6.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\Cat_304.5E2_XTC_MHEX_with_MP_Bucket_in_working_application___C10874515.56eb6c08799f6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>70</ymin>
+			<xmax>732</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

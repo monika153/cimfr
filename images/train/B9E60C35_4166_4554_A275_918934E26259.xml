@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>B9E60C35_4166_4554_A275_918934E26259.jpeg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\B9E60C35_4166_4554_A275_918934E26259.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>26</ymin>
+			<xmax>664</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

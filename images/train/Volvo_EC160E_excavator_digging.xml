@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Volvo_EC160E_excavator_digging.png</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\Volvo_EC160E_excavator_digging.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>20</ymin>
+			<xmax>794</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

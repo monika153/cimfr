@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>sany-excavators-800-2.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\sany-excavators-800-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>59</ymin>
+			<xmax>782</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

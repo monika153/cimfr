@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cat_mini_excavator_by_bruder_toys.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\cat_mini_excavator_by_bruder_toys.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>125</ymin>
+			<xmax>786</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

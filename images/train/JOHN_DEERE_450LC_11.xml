@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>JOHN_DEERE_450LC_11.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\JOHN_DEERE_450LC_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>86</ymin>
+			<xmax>778</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

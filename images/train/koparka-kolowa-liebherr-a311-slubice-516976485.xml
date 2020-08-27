@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>koparka-kolowa-liebherr-a311-slubice-516976485.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\koparka-kolowa-liebherr-a311-slubice-516976485.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>55</ymin>
+			<xmax>781</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>

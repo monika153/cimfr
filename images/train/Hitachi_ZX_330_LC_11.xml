@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Hitachi_ZX_330_LC_11.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\Hitachi_ZX_330_LC_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>42</ymin>
+			<xmax>800</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

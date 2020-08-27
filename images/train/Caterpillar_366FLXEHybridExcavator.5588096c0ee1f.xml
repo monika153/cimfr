@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Caterpillar_366FLXEHybridExcavator.5588096c0ee1f.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\Caterpillar_366FLXEHybridExcavator.5588096c0ee1f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>159</ymin>
+			<xmax>663</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

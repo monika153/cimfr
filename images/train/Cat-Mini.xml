@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Cat-Mini.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\Cat-Mini.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>126</ymin>
+			<xmax>641</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

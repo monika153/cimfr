@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Excavator_35G_RightFacing_r4d030664_large_a5f53af14ef1f3ee1c049b72e37d421809af86b4.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\Excavator_35G_RightFacing_r4d030664_large_a5f53af14ef1f3ee1c049b72e37d421809af86b4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>27</ymin>
+			<xmax>763</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

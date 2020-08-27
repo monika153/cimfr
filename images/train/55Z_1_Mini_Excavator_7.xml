@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>55Z_1_Mini_Excavator_7.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\55Z_1_Mini_Excavator_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>74</ymin>
+			<xmax>747</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

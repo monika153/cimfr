@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>623700_320l_excavator_1_jpg6069ad5fe9baa76496b1c8ab6bab0b2b.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\test\623700_320l_excavator_1_jpg6069ad5fe9baa76496b1c8ab6bab0b2b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>50</ymin>
+			<xmax>778</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>

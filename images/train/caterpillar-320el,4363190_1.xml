@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>caterpillar-320el,4363190_1.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\caterpillar-320el,4363190_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>29</ymin>
+			<xmax>763</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>

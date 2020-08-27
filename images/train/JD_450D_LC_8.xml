@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>JD_450D_LC_8.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\JD_450D_LC_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>11</ymin>
+			<xmax>777</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

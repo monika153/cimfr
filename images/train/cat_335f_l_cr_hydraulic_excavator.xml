@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cat_335f_l_cr_hydraulic_excavator.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\cat_335f_l_cr_hydraulic_excavator.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>63</ymin>
+			<xmax>624</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>

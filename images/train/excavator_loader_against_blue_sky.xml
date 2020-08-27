@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>excavator_loader_against_blue_sky.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\excavator_loader_against_blue_sky.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>25</ymin>
+			<xmax>800</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>

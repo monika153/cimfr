@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>JD_670G_1_3000x2000.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\JD_670G_1_3000x2000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>105</ymin>
+			<xmax>711</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

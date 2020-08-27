@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>923284509__slot_2_filename_eyJmbiI6Imx0ZHptNmU4OHkxay1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmL.lifS45ufEsgBNXk7BHDvhi3YjIuOSBhi9Aim0aidoo4_rev001.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\test\923284509__slot_2_filename_eyJmbiI6Imx0ZHptNmU4OHkxay1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmL.lifS45ufEsgBNXk7BHDvhi3YjIuOSBhi9Aim0aidoo4_rev001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>10</ymin>
+			<xmax>722</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

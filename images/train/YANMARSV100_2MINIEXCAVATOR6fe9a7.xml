@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>YANMARSV100_2MINIEXCAVATOR6fe9a7.png</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\YANMARSV100_2MINIEXCAVATOR6fe9a7.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>54</ymin>
+			<xmax>737</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

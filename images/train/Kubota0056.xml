@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Kubota0056.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\Kubota0056.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>6</ymin>
+			<xmax>769</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

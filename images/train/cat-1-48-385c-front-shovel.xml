@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cat-1-48-385c-front-shovel.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\cat-1-48-385c-front-shovel.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>95</ymin>
+			<xmax>711</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

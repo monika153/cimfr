@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Caption-1-Hydraulic-Mining-Shovel.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\train\Caption-1-Hydraulic-Mining-Shovel.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>125</ymin>
+			<xmax>702</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

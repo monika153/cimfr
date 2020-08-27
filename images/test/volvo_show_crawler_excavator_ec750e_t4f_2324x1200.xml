@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>volvo_show_crawler_excavator_ec750e_t4f_2324x1200.jpg</filename>
+	<path>D:\New folder\models\research\object_detection\images\test\volvo_show_crawler_excavator_ec750e_t4f_2324x1200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shovel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>77</ymin>
+			<xmax>748</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>
