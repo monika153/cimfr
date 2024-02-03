@@ -16,6 +16,8 @@ File path
 How to run?
 	Open "main.py" file in the editor change the path according to your input video file and run.
 
+ For Image Stitching File: 1. Install python 
+ 			   2. Run the file Image_stitching.py
 	
 
 
